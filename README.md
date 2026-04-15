@@ -1,5 +1,6 @@
 # WhiteList
-a open source DApp white list for all wallets with sustainable maintaince by community.
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)a open source DApp white list for all wallets with sustainable maintaince by community.
 
 1. Formate
 jason formate like this:
@@ -69,3 +70,7 @@ answer: " total schema above ",
 
 
 ```
+
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
